@@ -1,1 +1,1 @@
-### lamb-dynamo-sam
+### sam 
