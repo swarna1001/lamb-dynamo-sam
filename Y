@@ -1,0 +1,11 @@
+version = 0.1
+[Y]
+[Y.deploy]
+[Y.deploy.parameters]
+stack_name = "sam-lamb-dynamo"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-hj7gkqg64tea"
+s3_prefix = "sam-lamb-dynamo"
+region = "us-east-1"
+confirm_changeset = true
+capabilities = "CAPABILITY_IAM"
+image_repositories = []
